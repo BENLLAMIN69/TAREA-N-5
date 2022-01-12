@@ -17,3 +17,34 @@ Objetivos Específicos
 ![](https://github.com/BENLLAMIN69/TAREA-N-5/blob/main/IMA/M%C3%A9todo%20de%20las%20corrientes%20de%20Malla.png)
 
 # MAGNETISMO Y ELECTROMAGNETISMO
+
+EJERCICIOS 
+ 
+CAPITULO 9
+
+EJERCICIO 1
+
+![image](https://user-images.githubusercontent.com/93900233/149240979-e8cca77c-9a77-4cff-ab63-6bd467bfc822.png)
+
+![image](https://user-images.githubusercontent.com/93900233/149241001-3bffab0a-84f4-4479-bbb3-7b20218b6a18.png)
+
+EJERCICIO 3
+
+EJERCICIO 5
+
+EJERCICIO 7
+
+EJERCICIO 9
+
+EJERCICIO 11
+
+EJERCICIO 13
+
+EJERCICIO 15
+
+
+
+
+
+
+
