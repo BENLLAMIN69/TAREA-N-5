@@ -14,5 +14,6 @@ Objetivos Específicos
 # Marco Teórico
 # ANÁLISIS DE RAMAS, LAZOS Y NODOS
 
+![](https://github.com/BENLLAMIN69/TAREA-N-5/blob/main/IMA/M%C3%A9todo%20de%20las%20corrientes%20de%20Malla.png)
 
 # MAGNETISMO Y ELECTROMAGNETISMO
