@@ -30,6 +30,10 @@ EJERCICIO 1
 
 EJERCICIO 3
 
+![image](https://user-images.githubusercontent.com/93900233/149241093-03acd416-c555-4b6c-8ee0-33cbcd6a8b30.png)
+
+![image](https://user-images.githubusercontent.com/93900233/149241128-43f0d6e5-8d8b-4207-85ae-232078eb4e39.png)
+
 EJERCICIO 5
 
 EJERCICIO 7
