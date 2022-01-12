@@ -49,8 +49,9 @@ EJERCICIO 7
 
 ![image](https://user-images.githubusercontent.com/93900233/149241356-5eef5a73-953c-4f49-9527-6d2205f75ce4.png)
 
-
 EJERCICIO 9
+
+![image](https://user-images.githubusercontent.com/93900233/149241439-ea242085-45ab-4a7d-a198-26caa485dbb9.png)
 
 EJERCICIO 11
 
