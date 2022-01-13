@@ -23,6 +23,7 @@ Objetivos Específicos
 
 ![](https://github.com/BENLLAMIN69/TAREA-N-5/blob/main/IMA/png%20(4).png)
 ![](https://github.com/BENLLAMIN69/TAREA-N-5/blob/main/IMA/png%20(5).png)
+![](https://github.com/BENLLAMIN69/TAREA-N-5/blob/main/IMA/png%20(6).png)
 
 EJERCICIOS 
  
