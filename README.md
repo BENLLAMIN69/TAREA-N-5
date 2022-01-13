@@ -131,6 +131,8 @@ EJERCICIO 25
 
 # CONCLUSIONES
 - Los teoremas y métodos de conversión revisados son útiles al resolver algunos tipos de problemas de circuitos tanto de cd como de ca, los cuales se aplican conocimientos previos, ya que estos estan basados en en la ley de Ohm y las leyes de Kirchhoff.
+- La operación de dispositivos tales como el relevador, el solenoide, y el altavoz está basada en parte en principios magnéticos o electromagnéticos.
+- El analisis de los circuitos requiere tener una buena base fundamental de conceptos, teoremas y aplicaciones de que se puedan dar en circuitos electricos, por ello en este trabajo grupal, se enfatiza el uso de todo el conocimiento aprendido, con el cual cada uno de los estudiantes pueda hacer un ejercicio pensando en la forma que sea mas facil para cada individuo. 
 
 # BIBLIOGRAFÍA
 - Floyd, T. (2007). Principios de circuitos eléctricos (8a. ed.) (8th ed.). Naucalpan de Juárez: Pearson Educación.
