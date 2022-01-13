@@ -127,6 +127,13 @@ EJERCICIO 25
 
 ![image](https://user-images.githubusercontent.com/93900233/149242349-295b8dc8-e729-474b-82ed-c1e5cfed1c5f.png)
 
+# VIDEO
+
+# CONCLUSIONES
+
+
+# BIBLIOGRAFÍA
+- Floyd, T. (2007). Principios de circuitos eléctricos (8a. ed.) (8th ed.). Naucalpan de Juárez: Pearson Educación.
 
 
 
