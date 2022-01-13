@@ -79,11 +79,51 @@ EJERCICIO 13
 
 EJERCICIO 15
 
+![image](https://user-images.githubusercontent.com/93899422/149274676-cd716933-616a-4750-a009-33986c16f96c.png)
+![image](https://user-images.githubusercontent.com/93899422/149274703-ffeddf81-7aaa-4059-adb6-c907f85a563f.png)
+
+EJERCICIO 17
+
+![image](https://user-images.githubusercontent.com/93899422/149274745-0c9d7981-a1dd-495b-910f-482e94818f96.png)
+![image](https://user-images.githubusercontent.com/93899422/149274762-41db60d7-4081-4c1c-8d5f-8739a0e7aadf.png)
+
+EJERCICIO 19
+
+![image](https://user-images.githubusercontent.com/93899422/149274800-e1d77987-45e4-4b4b-948a-ba024bb42542.png)
+![image](https://user-images.githubusercontent.com/93899422/149274990-63418b57-770b-43e7-a0c9-176416cb8351.png)
+![image](https://user-images.githubusercontent.com/93899422/149275013-74823194-01e8-420f-b86d-ac8c4661ebf7.png)
+
+EJERCICIO 21
+
+![image](https://user-images.githubusercontent.com/93899422/149275078-edb8f23e-404e-4820-839f-07bf666aeb00.png)
+
+EJERCICIO 23
+
+![image](https://user-images.githubusercontent.com/93899422/149275141-94b7248b-d319-4da6-8b55-1f4caf6223ff.png)
+![image](https://user-images.githubusercontent.com/93899422/149275221-87712ac6-8e7e-4279-822e-7d3224eea6a1.png)
+
+EJERCICIO 25
+
+![image](https://user-images.githubusercontent.com/93899422/149275260-0fb1277e-67d6-440c-bfac-444c1cf6351f.png)
+
+EJERCICIO 27
+
+![image](https://user-images.githubusercontent.com/93899422/149275325-3018530b-5ddd-4ecf-8993-584b1aba4691.png)
+
+EJERCICIO 29
+
+![image](https://user-images.githubusercontent.com/93899422/149275391-178a7a29-cbb4-48ff-8b20-3fb6030c4a9d.png)
+
+EJERCICIO 31
+
+![image](https://user-images.githubusercontent.com/93899422/149275694-334b067a-a701-436a-82c4-7eef45b0f2ae.png)
+![image](https://user-images.githubusercontent.com/93899422/149275665-fb972553-7b01-4c4e-939f-3ec58e7771dd.png)
+![image](https://user-images.githubusercontent.com/93899422/149275759-f2795f1d-c5cf-47c8-98cd-f1299fdb4e87.png)
+
 CAPITULO 10
 
 EJERCICIO 1
 
-EJERCICIO 2
 
 EJERCICIO 3
 
@@ -98,6 +138,8 @@ EJERCICIO 11
 EJERCICIO 13
 
 EJERCICIO 15
+
+EJERCICIO 17
 
 ![image](https://user-images.githubusercontent.com/93900233/149241988-f1765690-f66d-466e-87b8-adefecf93fa8.png)
 
