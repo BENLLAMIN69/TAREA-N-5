@@ -69,6 +69,57 @@ EJERCICIO 13
 
 EJERCICIO 15
 
+CAPITULO 10
+EJERCICIO 1
+
+EJERCICIO 2
+
+EJERCICIO 3
+
+EJERCICIO 5
+
+EJERCICIO 7
+
+EJERCICIO 9
+
+EJERCICIO 11
+
+EJERCICIO 13
+
+EJERCICIO 15
+
+![image](https://user-images.githubusercontent.com/93900233/149241988-f1765690-f66d-466e-87b8-adefecf93fa8.png)
+
+EJERCICIO 17
+
+![image](https://user-images.githubusercontent.com/93900233/149242069-b8079281-c3a1-46a4-8703-f03678bc23f7.png)
+
+EJERCICIO 19
+
+![image](https://user-images.githubusercontent.com/93900233/149242126-c5200a95-cd50-4eb6-8ce0-923b82db787d.png)
+
+![image](https://user-images.githubusercontent.com/93900233/149242154-5dccc0ce-b1fc-4ae6-8c69-f813b69015fa.png)
+
+EJERCICIO 21
+
+![image](https://user-images.githubusercontent.com/93900233/149242194-93c355d5-cb89-4632-b9a8-0abb211a8f3f.png)
+
+![image](https://user-images.githubusercontent.com/93900233/149242224-9908d3b5-c833-419b-a07b-fb2ab44d21fb.png)
+
+EJERCICIO 23
+
+![image](https://user-images.githubusercontent.com/93900233/149242278-697c5962-71dc-43d9-b488-74a3063a01d6.png)
+
+EJERCICIO 25
+
+![image](https://user-images.githubusercontent.com/93900233/149242322-d82e99a7-60b5-449d-a64a-b2dc19d2b76d.png)
+
+![image](https://user-images.githubusercontent.com/93900233/149242349-295b8dc8-e729-474b-82ed-c1e5cfed1c5f.png)
+
+
+
+
+
 
 
 
