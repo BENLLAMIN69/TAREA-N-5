@@ -130,7 +130,7 @@ EJERCICIO 25
 # VIDEO
 
 # CONCLUSIONES
-
+- Los teoremas y métodos de conversión revisados son útiles al resolver algunos tipos de problemas de circuitos tanto de cd como de ca, los cuales se aplican conocimientos previos, ya que estos estan basados en en la ley de Ohm y las leyes de Kirchhoff.
 
 # BIBLIOGRAFÍA
 - Floyd, T. (2007). Principios de circuitos eléctricos (8a. ed.) (8th ed.). Naucalpan de Juárez: Pearson Educación.
